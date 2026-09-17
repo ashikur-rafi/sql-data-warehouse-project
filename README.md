@@ -44,7 +44,7 @@ Alongside my academic studies, I'm building my skills and career in **Data Analy
 
 This project is part of my journey to develop practical skills in **SQL, data warehousing, ETL, and data analytics** through hands-on projects.
 
-I'm continuously learning, building projects, and improving my technical skills with the goal of becoming a professional **Data Analyst**. (For Know :')
+I'm continuously learning, building projects, and improving my technical skills with the goal of becoming a professional **Data Analyst**. (For now :')
 
 
 
